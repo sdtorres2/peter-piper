@@ -30,8 +30,8 @@ You are also welcome commit, push, and create a pull request **before** you’ve
 completed your solution. You can ask questions or request feedback there in your
 pull request. Just mention `@barberboy` in your comments to get my attention.
 
-Challenges
-----------
+Extra Credit
+------------
 
 Want to work a bit harder? Try these variations:
 
