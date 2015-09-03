@@ -15,7 +15,7 @@ Description
 -----------
 Update file [peter-piper.js](peter-piper.js#L22), adding the correct code to
 count the number of times a “P” occurs in the Peter Piper tongue twister. Be 
-sure to count **both** uppercase (P) and lowercase (p) characters.
+sure to count **both** uppercase `P` and lowercase `p` characters.
 
 Completing and submitting the assignment
 ----------------------------------------
@@ -49,7 +49,7 @@ Want to work a bit harder? Try these variations:
   for ideas.
 
 Use [`git branch`](https://www.atlassian.com/git/tutorials/using-branches/git-branch)
-(and `git checkout`) to work on the challenges on separate branches.
+(and `git checkout`) to work on the extra credit on separate branches.
 
 References
 ----------
