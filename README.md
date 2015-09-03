@@ -4,27 +4,16 @@ Peter Piper Exercise
 In this exercise, we count how many times the letter ‘p’ occurs in Peter Piper’s
 famous tongue twister:
 
-> Peter Piper picked a peck of pickled peppers.
-> A peck of pickled peppers Peter Piper picked.
-> If Peter Piper picked a peck of pickled peppers,
-> Where's the peck of pickled peppers Peter Piper picked?
+> Peter Piper picked a peck of pickled peppers.  
+> A peck of pickled peppers Peter Piper picked.  
+> If Peter Piper picked a peck of pickled peppers,  
+> Where's the peck of pickled peppers Peter Piper picked?  
 
 Description
 -----------
 Update file [peter-piper.js](peter-piper.js#L22), adding the correct code to
 count the number of times a “P” occurs in the Peter Piper tongue twister. Be 
 sure to count **both** uppercase (P) and lowercase (p) characters.
-
-References
-----------
-
-- [`string.length` property](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
-- [`for` loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
-- [`string.charAt(index)` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt)
-- [`string.toLowerCase()` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
-- [Equality operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Equality_operators)
-- [Increment operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Increment_())
-- [console.log](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
 
 Completing and submitting the assignment
 ----------------------------------------
@@ -59,3 +48,14 @@ Want to work a bit harder? Try these variations:
 
 Use [`git branch`](https://www.atlassian.com/git/tutorials/using-branches/git-branch)
 (and `git checkout`) to work on the challenges on separate branches.
+
+References
+----------
+
+- [`string.length` property](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+- [`for` loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+- [`string.charAt(index)` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt)
+- [`string.toLowerCase()` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+- [Equality operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Equality_operators)
+- [Increment operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Increment_())
+- [console.log](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
