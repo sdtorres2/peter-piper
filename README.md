@@ -1,6 +1,8 @@
 Peter Piper Exercise
 ====================
 
+[![Join the chat at https://gitter.im/unioncollege-webtech/peter-piper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unioncollege-webtech/peter-piper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 In this exercise, we count how many times the letter ‘p’ occurs in Peter Piper’s
 famous tongue twister:
 
