@@ -11,11 +11,13 @@ famous tongue twister:
 > If Peter Piper picked a peck of pickled peppers,  
 > Where's the peck of pickled peppers Peter Piper picked?  
 
+
 Description
 -----------
 Update file [peter-piper.js](peter-piper.js#L22), adding the correct code to
 count the number of times a “P” occurs in the Peter Piper tongue twister. Be 
 sure to count **both** uppercase `P` and lowercase `p` characters.
+
 
 Completing and submitting the assignment
 ----------------------------------------
@@ -32,24 +34,28 @@ You are also welcome commit, push, and create a pull request **before** you’ve
 completed your solution. You can ask questions or request feedback there in your
 pull request. Just mention `@barberboy` in your comments to get my attention.
 
+
 Extra Credit
 ------------
 
 Want to work a bit harder? Try these variations:
 
-- Create a function called `countOccurrences(string, char)` which counts the
-  number of times the character `char` occurs in the string `string`. Use it
-  like `var counter = countOccurances(peterpiper, 'p');`.
+- [Define a function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Defining_functions)
+  called `countOccurrences(string, char)`, which counts the number of times the
+  character `char` occurs in the string `string`, then call it to find the
+  number of `p`'s in the tongue twister, like:  
+  `var counter = countOccurances(peterpiper, 'p');`.
 
-- Instead of looking for the letter 'p', count the number of times the word
-  'peck' occurs in the tongue twister.
+- Instead of looking for the letter 'p', count the number of times the **word**
+  `'peck'` occurs in the tongue twister.
 
-- Try counting the occurrences of 'p' without using a `for` loop. Take a look at
+- Try counting the occurrences of `'p'` without using a `for` loop. Take a look at
   the other [String.prototype methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#String_instances)
   for ideas.
 
 Use [`git branch`](https://www.atlassian.com/git/tutorials/using-branches/git-branch)
 (and `git checkout`) to work on the extra credit on separate branches.
+
 
 References
 ----------
