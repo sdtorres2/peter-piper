@@ -44,7 +44,7 @@ Want to work a bit harder? Try these variations:
   called `countOccurrences(string, char)`, which counts the number of times the
   character `char` occurs in the string `string`, then call it to find the
   number of `p`'s in the tongue twister, like:  
-  `var counter = countOccurances(peterpiper, 'p');`.
+  `var counter = countOccurences(peterpiper, 'p');`.
 
 - Instead of looking for the letter 'p', count the number of times the **word**
   `'peck'` occurs in the tongue twister.
