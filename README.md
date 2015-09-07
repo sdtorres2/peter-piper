@@ -44,7 +44,7 @@ Want to work a bit harder? Try these variations:
   called `countOccurrences(string, char)`, which counts the number of times the
   character `char` occurs in the string `string`, then call it to find the
   number of `p`'s in the tongue twister, like:  
-  `var counter = countOccurances(peterpiper, 'p');`.
+  `var counter = countOccurences(peterpiper, 'p');`.
 
 - Instead of looking for the letter 'p', count the number of times the **word**
   `'peck'` occurs in the tongue twister.
@@ -63,7 +63,7 @@ References
 - [`string.length` property](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
 - [`for` loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 - [`string.charAt(index)` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt)
-- [`string.toLowerCase()` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
 - [Equality operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Equality_operators)
+- [Logical OR](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators#Logical_OR_())
 - [Increment operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Increment_())
 - [console.log](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)

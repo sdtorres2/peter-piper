@@ -13,9 +13,9 @@
 
 var peterpiper = '';
 peterpiper += "Peter Piper picked a peck of pickled peppers.";
-peterpiper += "A peck of pickled peppers Peter Piper picked."
-peterpiper += "If Peter Piper picked a peck of pickled peppers,"
-peterpiper += "Where's the peck of pickled peppers Peter Piper picked?"
+peterpiper += "A peck of pickled peppers Peter Piper picked.";
+peterpiper += "If Peter Piper picked a peck of pickled peppers,";
+peterpiper += "Where's the peck of pickled peppers Peter Piper picked?";
 
 var counter = 0;
 
