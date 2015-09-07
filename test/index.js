@@ -3,11 +3,11 @@ var readFile = require('fs').readFile;
 var assert = require('assert');
 var exec = require('child_process').exec;
 
-exec('node peter-piper.js', function(error, stdout, stderr) {
+exec('node .', function(error, stdout, stderr) {
     if (error) {
         throw error;
     }
-    if (stdout !== "There are 36 P's in Peter Piper.") {
+    if (stdout !== "There are 36 P's in Peter Piper.\n") {
         // Try to provide helpful error messages.
         readFile('./peter-piper.js', "utf-8", function(err, value) {
             if (err) throw err;
